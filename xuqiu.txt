@@ -1,0 +1,28 @@
+
+项目要求:
+	服务器框架:　SSM
+	
+	开发周期:　最少三周
+	项目代码版本管理:　Git
+	
+	所有文件编码:　UTF-8
+	请求及响应编码:　UTF-8
+	生产运行环境:　Linux/Nginx/Tomcat
+	数据库:　MySQL
+	项目名称, 开发规范,　公共接口的统一
+
+	
+	每天项目进度计划报告提交
+	
+	PPT
+	用户使用说明书
+	测试报告
+
+
+	Shiro
+	Linux
+		JDK, Tomcat, Nginx, MySQL
+	Solr
+	Redis
+
+	
